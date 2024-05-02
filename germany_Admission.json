@@ -1,0 +1,338 @@
+[
+  {
+    "id": 1,
+    "university": "University of Potsdam",
+    "winter_deadline": "July 15",
+    "summer_deadline": "Dec 1",
+    "application_open": "YES"
+  },
+  {
+    "id": 2,
+    "university": "Braunschweig University of Technology",
+    "winter_deadline": "July 15",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 3,
+    "university": "University of Greifswald",
+    "winter_deadline": "July 31",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 4,
+    "university": "University of Mannheim",
+    "summer_deadline": "Jan 31, 2024",
+    "winter_deadline": "N/A",
+    "application_open": "YES"
+  },
+  {
+    "id": 5,
+    "university": "Technical University of Kaiserslautern",
+    "winter_deadline": "Apr 30, 2024",
+    "summer_deadline": "Oct 31, 2024",
+    "application_open": "YES"
+  },
+  {
+    "id": 6,
+    "university": "Otto von Guericke University of Magdeburg",
+    "winter_deadline": "July 15",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 7,
+    "university": "University of Kassel",
+    "winter_deadline": "July 15",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 8,
+    "university": "University of Trier",
+    "winter_deadline": "July 31",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 9,
+    "university": "University of Augsburg",
+    "summer_deadline": "Nov 1",
+    "winter_deadline": "July 31",
+    "application_open": "YES"
+  },
+  {
+    "id": 10,
+    "university": "University of Paderborn",
+    "summer_deadline": "Beginning of June-Sept 15, 2024",
+    "winter_deadline": "N/A",
+    "application_open": "YES"
+  },
+  {
+    "id": 11,
+    "university": "University of Wuppertal",
+    "summer_deadline": "Apr 15",
+    "winter_deadline": "Oct 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 12,
+    "university": "Osnabruck University",
+    "winter_deadline": "Jan 15",
+    "summer_deadline": "Dec 1",
+    "application_open": "YES"
+  },
+  {
+    "id": 13,
+    "university": "University of Siegen",
+    "summer_deadline": "Jan 15 - Sept 15",
+    "winter_deadline": "Feb 15 - July 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 14,
+    "university": "Hamburg University of Technology",
+    "winter_deadline": "July 15",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 15,
+    "university": "University of Bamberg",
+    "summer_deadline": "Jan 15",
+    "winter_deadline": "July 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 16,
+    "university": "University of Hildesheim",
+    "winter_deadline": "July 15",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 17,
+    "university": "University of Bonn",
+    "winter_deadline": "July 15",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 18,
+    "university": "Leuphana University of Lueneburg",
+    "summer_deadline": "Jan 15 - May 15",
+    "winter_deadline": "N/A",
+    "application_open": "YES"
+  },
+  {
+    "id": 19,
+    "university": "University of Osnabruck",
+    "winter_deadline": "July 20",
+    "summer_deadline": "Jan 20",
+    "application_open": "YES"
+  },
+  {
+    "id": 20,
+    "university": "University of Erfurt",
+    "winter_deadline": "July 15",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 21,
+    "university": "University of Rostock",
+    "winter_deadline": "July 15",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 22,
+    "university": "University of Kiel",
+    "winter_deadline": "July 15",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 23,
+    "university": "University of Konstanz",
+    "winter_deadline": "July 15",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 24,
+    "university": "University of Jena",
+    "winter_deadline": "July 15",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 25,
+    "university": "University of Flensburg",
+    "winter_deadline": "July 15",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 26,
+    "university": "University of Hagen",
+    "summer_deadline": "Varies",
+    "winter_deadline": "Varies",
+    "application_open": "YES"
+  },
+  {
+    "id": 27,
+    "university": "University of Bremen",
+    "winter_deadline": "July 15",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 28,
+    "university": "University of Dortmund",
+    "winter_deadline": "July 15",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 29,
+    "university": "University of Halle-Wittenberg",
+    "winter_deadline": "July 15",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 30,
+    "university": "University of Cologne",
+    "winter_deadline": "July 15",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 31,
+    "university": "University of Duisburg-Essen",
+    "winter_deadline": "July 15",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 32,
+    "university": "University of Oldenburg",
+    "winter_deadline": "July 15",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 33,
+    "university": "University of Marburg",
+    "winter_deadline": "July 15",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 34,
+    "university": "University of Giessen",
+    "winter_deadline": "July 15",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 35,
+    "university": "University of Stuttgart",
+    "winter_deadline": "July 15",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 36,
+    "university": "University of Freiburg",
+    "winter_deadline": "July 15",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 37,
+    "university": "University of Wurzburg",
+    "winter_deadline": "July 15",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 38,
+    "university": "University of Kaiserslautern",
+    "winter_deadline": "July 15",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 39,
+    "university": "University of Bielefeld",
+    "winter_deadline": "July 15",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 40,
+    "university": "University of Bayreuth",
+    "winter_deadline": "July 15",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 41,
+    "university": "University of Greifswald",
+    "winter_deadline": "July 15",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 42,
+    "university": "University of Tubingen",
+    "winter_deadline": "July 15",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 43,
+    "university": "University of Leipzig",
+    "winter_deadline": "July 15",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 44,
+    "university": "University of Munster",
+    "winter_deadline": "July 15",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 45,
+    "university": "University of Hohenheim",
+    "winter_deadline": "July 15",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 46,
+    "university": "University of Heidelberg",
+    "winter_deadline": "July 15",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 47,
+    "university": "University of Gottingen",
+    "winter_deadline": "July 15",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  },
+  {
+    "id": 48,
+    "university": "University of Duisburg-Essen",
+    "winter_deadline": "July 15",
+    "summer_deadline": "Jan 15",
+    "application_open": "YES"
+  }
+]
