@@ -382,81 +382,9 @@
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
     "url": "https://www.uni-due.de/en/"
-  }
+  },
   {
     "id": 49,
-    "university": "RWTH Aachen University",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.rwth-aachen.de/go/id/a/?lidx=1"
-  },
-  {
-    "id": 50,
-    "university": "Technical University of Munich",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.tum.de/en/"
-  },
-  {
-    "id": 51,
-    "university": "Humboldt University of Berlin",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.hu-berlin.de/en"
-  },
-  {
-    "id": 52,
-    "university": "Free University of Berlin",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.fu-berlin.de/en/index.html"
-  },
-  {
-    "id": 53,
-    "university": "Karlsruhe Institute of Technology",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.kit.edu/english/index.php"
-  },
-  {
-    "id": 54,
-    "university": "University of Hamburg",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-hamburg.de/en.html"
-  },
-  {
-    "id": 55,
-    "university": "Johannes Gutenberg University Mainz",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-mainz.de/eng/"
-  },
-  {
-    "id": 56,
-    "university": "University of Regensburg",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-regensburg.de/homepage/index.html?set_language=en"
-  },
-  {
-    "id": 57,
-    "university": "University of Passau",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-passau.de/en/"
-  },
-  {
-    "id": 58,
     "university": "University of Ulm",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
@@ -464,1283 +392,387 @@
     "url": "https://www.uni-ulm.de/en/"
   },
   {
-    "id": 59,
-    "university": "University of Duisburg-Essen",
+    "id": 50,
+    "university": "Technical University of Berlin",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.uni-due.de/en/"
+    "url": "https://www.tu-berlin.de/en/"
   },
   {
-    "id": 60,
-    "university": "University of Mainz",
+    "id": 51,
+    "university": "Technical University of Munich",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.uni-mainz.de/eng/"
+    "url": "https://www.tum.de/en/"
   },
   {
-    "id": 61,
-    "university": "University of Potsdam",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Dec 1",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-potsdam.de/en/"
-  },
-  {
-    "id": 62,
-    "university": "University of Bochum",
+    "id": 52,
+    "university": "RWTH Aachen University",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.ruhr-uni-bochum.de/en"
+    "url": "https://www.rwth-aachen.de/cms/RWTH/Aachen/Studium/~le/"
   },
   {
-    "id": 63,
-    "university": "University of Bayreuth",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-bayreuth.de/en/"
-  },
-  {
-    "id": 64,
-    "university": "University of Bielefeld",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-bielefeld.de/(en)/"
-  },
-  {
-    "id": 65,
-    "university": "University of Wuppertal",
-    "summer_deadline": "Apr 15",
-    "winter_deadline": "Oct 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-wuppertal.de/en/"
-  },
-  {
-    "id": 66,
-    "university": "University of Greifswald",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-greifswald.de/en/"
-  },
-  {
-    "id": 67,
-    "university": "University of Trier",
-    "winter_deadline": "July 31",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-trier.de/index.php?id=1&L=2"
-  },
-  {
-    "id": 68,
-    "university": "University of Paderborn",
-    "summer_deadline": "Beginning of June-Sept 15, 2024",
-    "winter_deadline": "N/A",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-paderborn.de/en/"
-  },
-  {
-    "id": 69,
-    "university": "Technical University of Kaiserslautern",
-    "winter_deadline": "Apr 30, 2024",
-    "summer_deadline": "Oct 31, 2024",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-kl.de/en/"
-  },
-  {
-    "id": 70,
-    "university": "Otto von Guericke University of Magdeburg",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.ovgu.de/en/"
-  },
-  {
-    "id": 71,
-    "university": "University of Kassel",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-kassel.de/uni/"
-  },
-  {
-    "id": 72,
-    "university": "University of Bamberg",
-    "summer_deadline": "Jan 15",
-    "winter_deadline": "July 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-bamberg.de/en/"
-  },
-  {
-    "id": 73,
-    "university": "University of Hildesheim",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-hildesheim.de/en/"
-  },
-  {
-    "id": 74,
-    "university": "University of Bonn",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-bonn.de/en"
-  },
-  {
-    "id": 75,
-    "university": "Leuphana University of Lueneburg",
-    "summer_deadline": "Jan 15 - May 15",
-    "winter_deadline": "N/A",
-    "IELTS_Required": "YES",
-    "url": "https://www.leuphana.de/en/university.html"
-  },
-  {
-    "id": 76,
-    "university": "University of Osnabruck",
-    "winter_deadline": "July 20",
-    "summer_deadline": "Jan 20",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-osnabrueck.de/en/"
-  },
-  {
-    "id": 77,
-    "university": "University of Erfurt",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Dec 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-erfurt.de/en/"
-  },
-  {
-    "id": 78,
-    "university": "University of Weimar",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Dec 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-weimar.de/en/university/start/"
-  },
-  {
-    "id": 79,
-    "university": "University of Flensburg",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-flensburg.de/portal-englisch/"
-  },
-  {
-    "id": 80,
-    "university": "University of Erlangen-Nuremberg",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.fau.eu/"
-  },
-  {
-    "id": 81,
-    "university": "Technical University of Chemnitz",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.tu-chemnitz.de/index.html.en"
-  },
-  {
-    "id": 82,
-    "university": "University of Halle-Wittenberg",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Feb 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-halle.de/homepage/"
-  },
-  {
-    "id": 83,
-    "university": "University of Koblenz",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Feb 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-koblenz.de/en"
-  },
-  {
-    "id": 84,
-    "university": "University of Hagen",
-    "winter_deadline": "July 31",
-    "summer_deadline": "Jan 31",
-    "IELTS_Required": "YES",
-    "url": "https://www.fernuni-hagen.de/english/"
-  },
-  {
-    "id": 85,
-    "university": "University of Lubeck",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-luebeck.de/en.html"
-  },
-  {
-    "id": 86,
-    "university": "University of Munster",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-muenster.de/en/"
-  },
-  {
-    "id": 87,
-    "university": "University of Leipzig",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-leipzig.de/en/"
-  },
-  {
-    "id": 88,
-    "university": "University of Rostock",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-rostock.de/en/"
-  },
-  {
-    "id": 89,
-    "university": "University of Siegen",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Dec 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-siegen.de/start/start_en.html"
-  },
-  {
-    "id": 90,
-    "university": "University of Trier",
-    "winter_deadline": "July 31",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-trier.de/index.php?id=1&L=2"
-  },
-  {
-    "id": 91,
-    "university": "University of Kiel",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-kiel.de/en/"
-  },
-  {
-    "id": 92,
-    "university": "University of Halle-Wittenberg",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Feb 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-halle.de/homepage/"
-  },
-  {
-    "id": 93,
-    "university": "University of Freiburg",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-freiburg.de/en/"
-  },
-  {
-    "id": 94,
-    "university": "University of Duisburg-Essen",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-due.de/en/"
-  },
-  {
-    "id": 95,
-    "university": "University of Erlangen-Nuremberg",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.fau.eu/"
-  },
-  {
-    "id": 96,
-    "university": "University of Frankfurt",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Dec 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.goethe-university-frankfurt.de/en?locale=en"
-  },
-  {
-    "id": 97,
-    "university": "University of Jena",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Dec 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-jena.de/en/start"
-  },
-  {
-    "id": 98,
-    "university": "University of Kassel",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-kassel.de/uni/"
-  },
-  {
-    "id": 99,
-    "university": "University of Mannheim",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-mannheim.de/en/"
-  },
-  {
-    "id": 100,
-    "university": "University of Saarland",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-saarland.de/en/home.html"
-  },
-  {
-    "id": 101,
-    "university": "University of Siegen",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Dec 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-siegen.de/start/start_en.html"
-  },
-  {
-    "id": 102,
-    "university": "University of Weimar",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Dec 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-weimar.de/en/university/start/"
-  },
-  {
-    "id": 103,
-    "university": "University of Wurzburg",
+    "id": 53,
+    "university": "University of Würzburg",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
     "url": "https://www.uni-wuerzburg.de/en/"
   },
   {
-    "id": 104,
-    "university": "University of Stuttgart",
+    "id": 54,
+    "university": "University of Tübingen",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.uni-stuttgart.de/en/"
+    "url": "https://uni-tuebingen.de/en/"
   },
   {
-    "id": 105,
-    "university": "University of Hohenheim",
+    "id": 55,
+    "university": "Technical University of Darmstadt",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.uni-hohenheim.de/en/"
+    "url": "https://www.tu-darmstadt.de/en/"
   },
   {
-    "id": 106,
-    "university": "University of Leipzig",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-leipzig.de/en/"
-  },
-  {
-    "id": 107,
-    "university": "University of Rostock",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-rostock.de/en/"
-  },
-  {
-    "id": 108,
-    "university": "University of Kiel",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-kiel.de/en/"
-  },
-  {
-    "id": 109,
-    "university": "University of Munster",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-muenster.de/en/"
-  },
-  {
-    "id": 110,
+    "id": 56,
     "university": "University of Bremen",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.uni-bremen.de/en"
+    "url": "https://www.uni-bremen.de/en/"
   },
   {
-    "id": 111,
-    "university": "University of Heidelberg",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Dec 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-heidelberg.de/en"
-  },
-  {
-    "id": 112,
-    "university": "Technical University of Berlin",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Dec 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.tu-berlin.de/menue/home/parameter/en/"
-  },
-  {
-    "id": 113,
-    "university": "Technical University of Munich",
+    "id": 57,
+    "university": "University of Pforzheim",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.tum.de/en/"
+    "url": "https://www.pf.hs-pforzheim.de/en/"
   },
   {
-    "id": 114,
-    "university": "RWTH Aachen University",
+    "id": 58,
+    "university": "University of Augsburg",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.rwth-aachen.de/go/id/a/?lidx=1"
+    "url": "https://www.uni-augsburg.de/en/"
   },
   {
-    "id": 115,
-    "university": "Humboldt University of Berlin",
+    "id": 59,
+    "university": "University of Landau",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.hu-berlin.de/en"
+    "url": "https://www.uni-landau.de/en/"
   },
   {
-    "id": 116,
-    "university": "Free University of Berlin",
+    "id": 60,
+    "university": "University of Jena",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.fu-berlin.de/en/index.html"
+    "url": "https://www.uni-jena.de/en/start"
   },
   {
-    "id": 117,
-    "university": "Karlsruhe Institute of Technology",
+    "id": 61,
+    "university": "University of Heilbronn",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.kit.edu/english/index.php"
+    "url": "https://www.hs-heilbronn.de/en/"
   },
   {
-    "id": 118,
-    "university": "University of Hamburg",
+    "id": 62,
+    "university": "University of Koblenz-Landau",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.uni-hamburg.de/en.html"
+    "url": "https://www.uni-koblenz-landau.de/en/"
   },
   {
-    "id": 119,
-    "university": "Johannes Gutenberg University Mainz",
+    "id": 63,
+    "university": "University of Applied Sciences Osnabrück",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.uni-mainz.de/eng/"
+    "url": "https://www.hs-osnabrueck.de/en/"
   },
   {
-    "id": 120,
-    "university": "University of Regensburg",
+    "id": 64,
+    "university": "University of Applied Sciences Wiesbaden",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.uni-regensburg.de/homepage/index.html?set_language=en"
+    "url": "https://www.hs-rm.de/en/"
   },
   {
-    "id": 121,
-    "university": "University of Passau",
+    "id": 65,
+    "university": "University of Applied Sciences Munich",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.uni-passau.de/en/"
+    "url": "https://www.hm.edu/en/"
   },
   {
-    "id": 122,
-    "university": "University of Ulm",
+    "id": 66,
+    "university": "University of Applied Sciences Karlsruhe",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.uni-ulm.de/en/"
+    "url": "https://www.hs-karlsruhe.de/en/"
   },
   {
-    "id": 123,
-    "university": "University of Duisburg-Essen",
+    "id": 67,
+    "university": "University of Applied Sciences Cologne",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.uni-due.de/en/"
+    "url": "https://www.fh-koeln.de/en/"
   },
   {
-    "id": 124,
-    "university": "University of Mainz",
+    "id": 68,
+    "university": "University of Applied Sciences Dresden",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.uni-mainz.de/eng/"
+    "url": "https://www.hszg.de/en/"
   },
   {
-    "id": 125,
-    "university": "University of Potsdam",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Dec 1",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-potsdam.de/en/"
-  },
-  {
-    "id": 126,
-    "university": "University of Bochum",
+    "id": 69,
+    "university": "University of Applied Sciences Dortmund",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.ruhr-uni-bochum.de/en"
+    "url": "https://www.fh-dortmund.de/en/"
   },
   {
-    "id": 127,
-    "university": "University of Bayreuth",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-bayreuth.de/en/"
-  },
-  {
-    "id": 128,
-    "university": "University of Bielefeld",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-bielefeld.de/(en)/"
-  },
-  {
-    "id": 129,
-    "university": "University of Wuppertal",
-    "summer_deadline": "Apr 15",
-    "winter_deadline": "Oct 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-wuppertal.de/en/"
-  },
-  {
-    "id": 130,
-    "university": "University of Greifswald",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-greifswald.de/en/"
-  },
-  {
-    "id": 131,
-    "university": "University of Trier",
-    "winter_deadline": "July 31",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-trier.de/index.php?id=1&L=2"
-  },
-  {
-    "id": 132,
-    "university": "University of Paderborn",
-    "summer_deadline": "Beginning of June-Sept 15, 2024",
-    "winter_deadline": "N/A",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-paderborn.de/en/"
-  },
-  {
-    "id": 133,
-    "university": "Technical University of Kaiserslautern",
-    "winter_deadline": "Apr 30, 2024",
-    "summer_deadline": "Oct 31, 2024",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-kl.de/en/"
-  },
-  {
-    "id": 134,
-    "university": "Otto von Guericke University of Magdeburg",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.ovgu.de/en/"
-  },
-  {
-    "id": 135,
-    "university": "University of Kassel",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-kassel.de/uni/"
-  },
-  {
-    "id": 136,
-    "university": "Hochschule Bremen City University of Applied Sciences",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.hs-bremen.de/en/"
-  },
-  {
-    "id": 137,
-    "university": "SRH Berlin University of Applied Sciences",
-    "winter_deadline": "June 15, 2024",
-    "summer_deadline": "Nov 15, 2024",
-    "IELTS_Required": "YES",
-    "url": "https://www.srh-berlin.de/en/"
-  },
-  {
-    "id": 138,
-    "university": "FH Aachen University of Applied Sciences",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.fh-aachen.de/en/"
-  },
-  {
-    "id": 139,
-    "university": "Hochschule Darmstadt University of Applied Sciences",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://h-da.de/en"
-  },
-  {
-    "id": 140,
-    "university": "Hochschule Düsseldorf University of Applied Sciences",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.hs-duesseldorf.de/home"
-  },
-  {
-    "id": 141,
-    "university": "Furtwangen University of Applied Sciences",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.hs-furtwangen.de/en/"
-  },
-  {
-    "id": 142,
-    "university": "Hochschule Niederrhein University of Applied Sciences",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.hs-niederrhein.de/en/"
-  },
-  {
-    "id": 143,
-    "university": "Munich University of Applied Sciences",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.hm.edu/en/index.en.html"
-  },
-  {
-    "id": 144,
-    "university": "Technische Hochschule Nuremberg Georg Simon Ohm",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.th-nuernberg.de/en/"
-  },
-  {
-    "id": 145,
-    "university": "Hochschule Ravensburg-Weingarten University of Applied Sciences",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.rwu.de/en"
-  },
-  {
-    "id": 146,
-    "university": "Hochschule Weihenstephan-Triesdorf University of Applied Sciences",
+    "id": 70,
+    "university": "University of Applied Sciences Weihenstephan-Triesdorf",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
     "url": "https://www.hswt.de/en/"
   },
   {
-    "id": 147,
-    "university": "SRH Hochschule Heidelberg",
+    "id": 71,
+    "university": "University of Applied Sciences Augsburg",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.hochschule-heidelberg.de/en/"
+    "url": "https://www.hs-augsburg.de/en/"
   },
   {
-    "id": 148,
-    "university": "Hochschule Worms University of Applied Sciences",
+    "id": 72,
+    "university": "University of Applied Sciences Berlin",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.hs-worms.de/en/"
+    "url": "https://www.hwr-berlin.de/en/"
   },
   {
-    "id": 149,
-    "university": "SRH Berlin University of Applied Sciences",
-    "winter_deadline": "June 15, 2024",
-    "summer_deadline": "Nov 15, 2024",
-    "IELTS_Required": "YES",
-    "url": "https://www.srh-berlin.de/en/"
-  },
-  {
-    "id": 150,
-    "university": "FH Aachen University of Applied Sciences",
+    "id": 73,
+    "university": "University of Applied Sciences Frankfurt",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.fh-aachen.de/en/"
+    "url": "https://www.fh-frankfurt.de/en/"
   },
   {
-    "id": 151,
-    "university": "Hochschule Bremen City University of Applied Sciences",
+    "id": 74,
+    "university": "University of Applied Sciences Kiel",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.hs-bremen.de/en/"
+    "url": "https://www.fh-kiel.de/en/"
   },
   {
-    "id": 152,
-    "university": "Hochschule Darmstadt University of Applied Sciences",
+    "id": 75,
+    "university": "University of Applied Sciences Mannheim",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://h-da.de/en"
+    "url": "https://www.hs-mannheim.de/en/"
   },
   {
-    "id": 153,
-    "university": "Hochschule Düsseldorf University of Applied Sciences",
+    "id": 76,
+    "university": "University of Applied Sciences Mainz",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.hs-duesseldorf.de/home"
+    "url": "https://www.hs-mainz.de/en/"
   },
   {
-    "id": 154,
-    "university": "Furtwangen University of Applied Sciences",
+    "id": 77,
+    "university": "University of Applied Sciences Ravensburg-Weingarten",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.hs-furtwangen.de/en/"
+    "url": "https://www.hs-weingarten.de/en/"
   },
   {
-    "id": 155,
-    "university": "Hochschule Niederrhein University of Applied Sciences",
+    "id": 78,
+    "university": "University of Applied Sciences Coburg",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.hs-niederrhein.de/en/"
+    "url": "https://www.hs-coburg.de/en/"
   },
   {
-    "id": 156,
-    "university": "Munich University of Applied Sciences",
+    "id": 79,
+    "university": "University of Applied Sciences Oldenburg/Ostfriesland/Wilhelmshaven",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.hm.edu/en/index.en.html"
+    "url": "https://www.hs-ol.de/en/"
   },
   {
-    "id": 157,
-    "university": "Technische Hochschule Nuremberg Georg Simon Ohm",
+    "id": 80,
+    "university": "University of Applied Sciences Aalen",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.th-nuernberg.de/en/"
+    "url": "https://www.hs-aalen.de/en/"
   },
   {
-    "id": 158,
-    "university": "Hochschule Ravensburg-Weingarten University of Applied Sciences",
+    "id": 81,
+    "university": "University of Applied Sciences Esslingen",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.rwu.de/en"
+    "url": "https://www.hs-esslingen.de/en/"
   },
   {
-    "id": 159,
-    "university": "Hochschule Weihenstephan-Triesdorf University of Applied Sciences",
+    "id": 82,
+    "university": "University of Applied Sciences Heilbronn",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.hswt.de/en/"
+    "url": "https://www.hs-heilbronn.de/en/"
   },
   {
-    "id": 160,
-    "university": "SRH Hochschule Heidelberg",
+    "id": 83,
+    "university": "University of Applied Sciences Karlsruhe",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.hochschule-heidelberg.de/en/"
+    "url": "https://www.hs-karlsruhe.de/en/"
   },
   {
-    "id": 161,
-    "university": "Hochschule Worms University of Applied Sciences",
+    "id": 84,
+    "university": "University of Applied Sciences Trier",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.hs-worms.de/en/"
+    "url": "https://www.hochschule-trier.de/en/"
   },
   {
-    "id": 162,
-    "university": "University of Hagen",
-    "winter_deadline": "July 31",
-    "summer_deadline": "Jan 31",
-    "IELTS_Required": "YES",
-    "url": "https://www.fernuni-hagen.de/english/"
-  },
-  {
-    "id": 163,
-    "university": "University of Freiburg",
+    "id": 85,
+    "university": "University of Applied Sciences Fulda",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.uni-freiburg.de/?set_language=en"
+    "url": "https://www.hs-fulda.de/en/"
   },
   {
-    "id": 164,
-    "university": "TU Dortmund University",
+    "id": 86,
+    "university": "University of Applied Sciences Ingolstadt",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.tu-dortmund.de/en/"
+    "url": "https://www.hs-ingolstadt.de/en/"
   },
   {
-    "id": 165,
-    "university": "TU Dresden",
+    "id": 87,
+    "university": "University of Applied Sciences Jena",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://tu-dresden.de/?set_language=en"
+    "url": "https://www.hs-jena.de/en/"
   },
   {
-    "id": 166,
-    "university": "Justus Liebig University Giessen",
+    "id": 88,
+    "university": "University of Applied Sciences Ludwigsburg",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.uni-giessen.de/international-pages/contacts/office-of-international-affairs"
+    "url": "https://www.hs-ludwigsburg.de/en/"
   },
   {
-    "id": 167,
-    "university": "Humboldt University of Berlin",
+    "id": 89,
+    "university": "University of Applied Sciences Landshut",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.hu-berlin.de/en"
+    "url": "https://www.landshut.de/en/"
   },
   {
-    "id": 168,
-    "university": "Free University of Berlin",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.fu-berlin.de/en/index.html"
-  },
-  {
-    "id": 169,
-    "university": "Karlsruhe Institute of Technology",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.kit.edu/english/index.php"
-  },
-  {
-    "id": 170,
-    "university": "University of Hamburg",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-hamburg.de/en.html"
-  },
-  {
-    "id": 171,
-    "university": "Johannes Gutenberg University Mainz",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-mainz.de/eng/"
-  },
-  {
-    "id": 172,
-    "university": "University of Regensburg",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-regensburg.de/homepage/index.html?set_language=en"
-  },
-  {
-    "id": 173,
-    "university": "University of Passau",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-passau.de/en/"
-  },
-  {
-    "id": 174,
-    "university": "University of Ulm",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-ulm.de/en/"
-  },
-  {
-    "id": 175,
-    "university": "University of Duisburg-Essen",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-due.de/en/"
-  },
-  {
-    "id": 176,
-    "university": "University of Potsdam",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Dec 1",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-potsdam.de/en/"
-  },
-  {
-    "id": 177,
-    "university": "University of Bochum",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.ruhr-uni-bochum.de/en"
-  },
-  {
-    "id": 178,
-    "university": "University of Bayreuth",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-bayreuth.de/en/"
-  },
-  {
-    "id": 179,
-    "university": "University of Bielefeld",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-bielefeld.de/(en)/"
-  },
-  {
-    "id": 180,
-    "university": "University of Wuppertal",
-    "summer_deadline": "Apr 15",
-    "winter_deadline": "Oct 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-wuppertal.de/en/"
-  },
-  {
-    "id": 181,
-    "university": "University of Greifswald",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-greifswald.de/en/"
-  },
-  {
-    "id": 182,
-    "university": "University of Trier",
-    "winter_deadline": "July 31",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-trier.de/index.php?id=1&L=2"
-  },
-  {
-    "id": 183,
-    "university": "University of Paderborn",
-    "summer_deadline": "Beginning of June-Sept 15, 2024",
-    "winter_deadline": "N/A",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-paderborn.de/en/"
-  },
-  {
-    "id": 184,
-    "university": "Technical University of Kaiserslautern",
-    "winter_deadline": "Apr 30, 2024",
-    "summer_deadline": "Oct 31, 2024",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-kl.de/en/"
-  },
-  {
-    "id": 185,
-    "university": "Otto von Guericke University of Magdeburg",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.ovgu.de/en/"
-  },
-  {
-    "id": 186,
-    "university": "University of Kassel",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.uni-kassel.de/uni/"
-  },
-  {
-    "id": 187,
-    "university": "Hochschule Bremen City University of Applied Sciences",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.hs-bremen.de/en/"
-  },
-  {
-    "id": 188,
-    "university": "SRH Berlin University of Applied Sciences",
-    "winter_deadline": "June 15, 2024",
-    "summer_deadline": "Nov 15, 2024",
-    "IELTS_Required": "YES",
-    "url": "https://www.srh-berlin.de/en/"
-  },
-  {
-    "id": 189,
-    "university": "FH Aachen University of Applied Sciences",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.fh-aachen.de/en/"
-  },
-  {
-    "id": 190,
-    "university": "Hochschule Darmstadt University of Applied Sciences",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://h-da.de/en"
-  },
-  {
-    "id": 191,
-    "university": "Hochschule Düsseldorf University of Applied Sciences",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.hs-duesseldorf.de/home"
-  },
-  {
-    "id": 192,
-    "university": "Furtwangen University of Applied Sciences",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.hs-furtwangen.de/en/"
-  },
-  {
-    "id": 193,
-    "university": "Hochschule Niederrhein University of Applied Sciences",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.hs-niederrhein.de/en/"
-  },
-  {
-    "id": 194,
-    "university": "Munich University of Applied Sciences",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.hm.edu/en/index.en.html"
-  },
-  {
-    "id": 195,
-    "university": "Technische Hochschule Nuremberg Georg Simon Ohm",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.th-nuernberg.de/en/"
-  },
-  {
-    "id": 196,
-    "university": "Hochschule Ravensburg-Weingarten University of Applied Sciences",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.rwu.de/en"
-  },
-  {
-    "id": 197,
-    "university": "Hochschule Weihenstephan-Triesdorf University of Applied Sciences",
+    "id": 90,
+    "university": "University of Applied Sciences Weihenstephan-Triesdorf",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
     "url": "https://www.hswt.de/en/"
   },
   {
-    "id": 198,
-    "university": "SRH Hochschule Heidelberg",
+    "id": 91,
+    "university": "University of Applied Sciences Wiesbaden",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.hochschule-heidelberg.de/en/"
+    "url": "https://www.hs-rm.de/en/"
   },
   {
-    "id": 199,
-    "university": "Hochschule Worms University of Applied Sciences",
+    "id": 92,
+    "university": "University of Applied Sciences Darmstadt",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.hs-worms.de/en/"
+    "url": "https://www.h_da.de/en/"
   },
   {
-    "id": 200,
-    "university": "SRH Berlin University of Applied Sciences",
-    "winter_deadline": "June 15, 2024",
-    "summer_deadline": "Nov 15, 2024",
-    "IELTS_Required": "YES",
-    "url": "https://www.srh-berlin.de/en/"
-  },
-  {
-    "id": 201,
-    "university": "FH Aachen University of Applied Sciences",
+    "id": 93,
+    "university": "University of Applied Sciences Hannover",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.fh-aachen.de/en/"
+    "url": "https://www.fh-hannover.de/en/"
   },
   {
-    "id": 202,
-    "university": "Hochschule Darmstadt University of Applied Sciences",
+    "id": 94,
+    "university": "University of Applied Sciences Koblenz",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://h-da.de/en"
+    "url": "https://www.hs-koblenz.de/en/"
   },
   {
-    "id": 203,
-    "university": "Hochschule Düsseldorf University of Applied Sciences",
+    "id": 95,
+    "university": "University of Applied Sciences Regensburg",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.hs-duesseldorf.de/home"
+    "url": "https://www.hs-regensburg.de/en/"
   },
   {
-    "id": 204,
-    "university": "Furtwangen University of Applied Sciences",
+    "id": 96,
+    "university": "University of Applied Sciences Rosenheim",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.hs-furtwangen.de/en/"
+    "url": "https://www.th-rosenheim.de/en/"
   },
   {
-    "id": 205,
-    "university": "Hochschule Niederrhein University of Applied Sciences",
+    "id": 97,
+    "university": "University of Applied Sciences Zwickau",
     "winter_deadline": "July 15",
     "summer_deadline": "Jan 15",
     "IELTS_Required": "YES",
-    "url": "https://www.hs-niederrhein.de/en/"
-  },
-  {
-    "id": 206,
-    "university": "Munich University of Applied Sciences",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.hm.edu/en/index.en.html"
-  },
-  {
-    "id": 207,
-    "university": "Technische Hochschule Nuremberg Georg Simon Ohm",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.th-nuernberg.de/en/"
-  },
-  {
-    "id": 208,
-    "university": "Hochschule Ravensburg-Weingarten University of Applied Sciences",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.rwu.de/en"
-  },
-  {
-    "id": 209,
-    "university": "Hochschule Weihenstephan-Triesdorf University of Applied Sciences",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.hswt.de/en/"
-  },
-  {
-    "id": 210,
-    "university": "SRH Hochschule Heidelberg",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.hochschule-heidelberg.de/en/"
-  },
-  {
-    "id": 211,
-    "university": "Hochschule Worms University of Applied Sciences",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.hs-worms.de/en/"
-  },
-  {
-    "id": 212,
-    "university": "SRH Berlin University of Applied Sciences",
-    "winter_deadline": "June 15, 2024",
-    "summer_deadline": "Nov 15, 2024",
-    "IELTS_Required": "YES",
-    "url": "https://www.srh-berlin.de/en/"
-  },
-  {
-    "id": 213,
-    "university": "FH Aachen University of Applied Sciences",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.fh-aachen.de/en/"
-  },
-  {
-    "id": 214,
-    "university": "Hochschule Darmstadt University of Applied Sciences",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://h-da.de/en"
-  },
-  {
-    "id": 215,
-    "university": "Hochschule Düsseldorf University of Applied Sciences",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.hs-duesseldorf.de/home"
-  },
-  {
-    "id": 216,
-    "university": "Furtwangen University of Applied Sciences",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.hs-furtwangen.de/en/"
-  },
-  {
-    "id": 217,
-    "university": "Hochschule Niederrhein University of Applied Sciences",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.hs-niederrhein.de/en/"
-  },
-  {
-    "id": 218,
-    "university": "Munich University of Applied Sciences",
-    "winter_deadline": "July 15",
-    "summer_deadline": "Jan 15",
-    "IELTS_Required": "YES",
-    "url": "https://www.hm.edu/en/index.en.html"
+    "url": "https://www.hszw.de/en/"
   }
 ]
